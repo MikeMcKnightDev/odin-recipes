@@ -1,0 +1,18 @@
+*{
+    background-color: #93E9BE;
+}
+
+.mainhead{
+    text-align: center;
+    font-size: 50px;
+    color: #FFF;
+    background-color: salmon;
+}
+
+a{
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 800px;
+    justify-content: center;
+}
